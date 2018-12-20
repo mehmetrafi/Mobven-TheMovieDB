@@ -1,0 +1,27 @@
+[
+	{
+		"fragmet_class":"com.mobven.moviedb.fragment.MovieListingFragment",
+		"bundle": {
+			"TMDB_MRP_Type":"1"
+		}
+	},
+	{
+		"fragmet_class":"com.mobven.moviedb.fragment.MovieListingFragment",
+		"bundle": {
+			"TMDB_MRP_Type":"2"
+		}
+	},
+	{
+		"fragmet_class":"com.mobven.moviedb.fragment.MovieListingFragment",
+		"bundle": {
+			"TMDB_MRP_Type":"4"
+		}
+	},
+	{
+		"fragmet_class":"com.mobven.moviedb.fragment.MovieListingFragment",
+		"bundle": {
+			"TMDB_MRP_Type":"8"
+		}
+	}
+
+]
